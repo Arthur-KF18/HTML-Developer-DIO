@@ -30,4 +30,14 @@
 
 - Grandes nomes:
   - Grace Murray Hopper: Marinha dos EUA, uma das primeiras programadoras do Mark I em 1944, __Criadora da linguagem de programação de alto nível `Flow-Matic`, sendo a base do COBOL__. Além disso, foi responsável por criar o termo __"bug" na computação__ 
-  - 
+  - Joseph Cral Robnett Licklider: Recrutado pela DARPA depois de teorizar sobre uma rede “galática” de computadores. Plantou a “semente” da comunicação entre dois pontos distintos através do computador.
+  - Robert E.Kahn: Primeira apresentação pública da ARPANet, Apresentou o primeiro e-mail e foi Criador do TCP/IP
+  - Tim Berners-Lee: Inventor do WWW, diretor do World Wide Web Consortion (W3C). Obteve título de cavaleiro pela rainha elizabeth e ainda popularizou HTTP e HTML
+  - Marc Andreessen: (re)inventou o navegador, o Netscape Navigator feito a partir do Mosaic. Tornou o navegador amigável com recursos gráficos. O Netscape deteu 90% na época, porém foi superado pelo Internet Explorer anos mais tarde
+  - Bill Gates: Fundador da Microsoft, que criou o Internet Explorer, tornou acessível para todos o computador, e com isso o acesso à internet.
+  - Steve Jobs: Fundador da Apple, concorrente da Microsoft, popularizou o smartphone através do lançamento do iPhone em 29 de junho de 2007
+
+
+
+
+
